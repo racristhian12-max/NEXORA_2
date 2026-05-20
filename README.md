@@ -1,2 +1,7 @@
 # NEXORA_2
 Nuevo repositorio NEXORA_2
+
+CREACION DE PAGINA WEB FUNCIONAL
+
+Objetivo:
+1.
